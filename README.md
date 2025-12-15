@@ -75,7 +75,7 @@ real-estate-ml-project
 ### 1️⃣ دریافت پروژه
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/NavidByti/real-estate-ml-project.git
 cd real-estate-ml-project
 ```
 
